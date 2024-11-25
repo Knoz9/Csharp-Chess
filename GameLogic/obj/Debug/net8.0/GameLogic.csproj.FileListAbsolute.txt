@@ -1,0 +1,11 @@
+C:\Users\dqp024\source\repos\Boardgame\GameLogic\bin\Debug\net8.0\GameLogic.deps.json
+C:\Users\dqp024\source\repos\Boardgame\GameLogic\bin\Debug\net8.0\GameLogic.dll
+C:\Users\dqp024\source\repos\Boardgame\GameLogic\bin\Debug\net8.0\GameLogic.pdb
+C:\Users\dqp024\source\repos\Boardgame\GameLogic\obj\Debug\net8.0\GameLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dqp024\source\repos\Boardgame\GameLogic\obj\Debug\net8.0\GameLogic.AssemblyInfoInputs.cache
+C:\Users\dqp024\source\repos\Boardgame\GameLogic\obj\Debug\net8.0\GameLogic.AssemblyInfo.cs
+C:\Users\dqp024\source\repos\Boardgame\GameLogic\obj\Debug\net8.0\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\dqp024\source\repos\Boardgame\GameLogic\obj\Debug\net8.0\GameLogic.dll
+C:\Users\dqp024\source\repos\Boardgame\GameLogic\obj\Debug\net8.0\refint\GameLogic.dll
+C:\Users\dqp024\source\repos\Boardgame\GameLogic\obj\Debug\net8.0\GameLogic.pdb
+C:\Users\dqp024\source\repos\Boardgame\GameLogic\obj\Debug\net8.0\ref\GameLogic.dll

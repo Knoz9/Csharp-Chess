@@ -1,0 +1,103 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\Black-Bishop.png" />
+    <None Remove="Assets\Black-King.png" />
+    <None Remove="Assets\black-knight.png" />
+    <None Remove="Assets\black-pawn.png" />
+    <None Remove="Assets\black-queen.png" />
+    <None Remove="Assets\black-rook.png" />
+    <None Remove="Assets\board.jpg" />
+    <None Remove="Assets\Cursor\cursor1.cur" />
+    <None Remove="Assets\Cursor\cursor2.cur" />
+    <None Remove="Assets\Cursor\cursor2b.cur" />
+    <None Remove="Assets\Images\Black-Bishop.png" />
+    <None Remove="Assets\Images\Black-King.png" />
+    <None Remove="Assets\Images\black-knight.png" />
+    <None Remove="Assets\Images\black-pawn.png" />
+    <None Remove="Assets\Images\black-queen.png" />
+    <None Remove="Assets\Images\black-rook.png" />
+    <None Remove="Assets\Images\board.jpg" />
+    <None Remove="Assets\Images\white-bishop.png" />
+    <None Remove="Assets\Images\white-king.png" />
+    <None Remove="Assets\Images\white-knight.png" />
+    <None Remove="Assets\Images\white-pawn.png" />
+    <None Remove="Assets\Images\white-queen.png" />
+    <None Remove="Assets\Images\white-rook.png" />
+    <None Remove="Assets\Sounds\check.wav" />
+    <None Remove="Assets\Sounds\gameover.wav" />
+    <None Remove="Assets\Sounds\move.wav" />
+    <None Remove="Assets\white-bishop.png" />
+    <None Remove="Assets\white-king.png" />
+    <None Remove="Assets\white-knight.png" />
+    <None Remove="Assets\white-pawn.png" />
+    <None Remove="Assets\white-queen.png" />
+    <None Remove="Assets\white-rook.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GameLogic\GameLogic.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Cursor\cursor1.cur" />
+    <Resource Include="Assets\Cursor\cursor2b.cur" />
+    <Resource Include="Assets\Images\Black-Bishop.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Images\Black-King.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Images\black-knight.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Images\black-pawn.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Images\black-queen.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Images\black-rook.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Images\board.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Images\white-bishop.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Images\white-king.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Images\white-knight.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Images\white-pawn.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Images\white-queen.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Images\white-rook.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Sounds\check.wav">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Sounds\gameover.wav">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Sounds\move.wav">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

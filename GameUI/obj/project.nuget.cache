@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1VrTI0hTDzc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dqp024\\source\\repos\\Boardgame\\GameUI\\GameUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dqp024\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
