@@ -2,8 +2,8 @@
 This is a graphical chess game implemented in C# using WPF. It simulates a two-player chess match, providing functionality to move pieces, detect valid moves, and handle special rules such as check, checkmate, and pawn promotion. The game includes visual and auditory feedback, custom cursors, and dynamic highlights to indicate available moves, check status, and the current player's turn. The player may also play against the computer.
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="doc/Chess1.png" width="300px" />
-  <img src="doc/Chess2.png" width="300px" />
+  <img src="doc/Chess1.PNG" width="300px" />
+  <img src="doc/Chess2.PNG" width="300px" />
 </div>
 
 ## Features
